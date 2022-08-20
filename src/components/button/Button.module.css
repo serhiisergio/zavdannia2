@@ -1,0 +1,40 @@
+.btn {
+  display: inline;
+  margin-right: 0;
+}
+button {
+  width: 8em;
+  height: 3em;
+  margin-right: 1em;
+  font-size: 16px;
+  background: rgb(34, 26, 26);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 2px grey;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+/* Tablet */
+@media screen and (max-width: 767px) {
+  .btn {
+    margin-right: 20px;
+  }
+  button {
+    width: 6em;
+    height: 2.5em;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 479px) {
+  .btn {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  button {
+    margin-bottom: 10px;
+  }
+}
