@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zavdannia2/static/css/main.0e0f4d6b.css",
+    "main.js": "/zavdannia2/static/js/main.97b7856a.js",
+    "index.html": "/zavdannia2/index.html",
+    "main.0e0f4d6b.css.map": "/zavdannia2/static/css/main.0e0f4d6b.css.map",
+    "main.97b7856a.js.map": "/zavdannia2/static/js/main.97b7856a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0f4d6b.css",
+    "static/js/main.97b7856a.js"
+  ]
+}
